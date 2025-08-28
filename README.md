@@ -3,7 +3,7 @@
 <h4 align="center">AI & Data Science Enthusiast | Exploring Backend Development, MLOps, and DSA</h4>
 
 <a align="center">
-- 🚀 I’m currently focusing on **Agentic AI, Backend Development (Flask), MLOps, and DSA** and passionate about solving problems using **AI + scalable tech systems**  
+- 🚀 I’m currently focusing on Agentic AI, Backend Development (Flask), MLOps, and DSA and passionate about solving problems using AI + scalable tech systems 
 </a>
 
 <h3 align="center">Connect with me:</h3>
