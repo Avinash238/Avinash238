@@ -1,13 +1,38 @@
-<h1 align="center">Hi 👋, I'm Avinash Sharma, pre-final year student at IIT (BHU) Varanasi.</h1>
-<h3 align="center">An Artificial Intelligence and Data Science enthusiast.</h3>
+<h1 align="center">Hi 👋, I'm Avinash Sharma</h1>
+<h3 align="center">Associate Engineer at Nagarro | IIT (BHU) Varanasi Graduate</h3>
+<h4 align="center">AI & Data Science Enthusiast | Exploring Backend Development, MLOps, and DSA</h4>
 
-- 🌱 I’m currently learning **ML.**
+- 🚀 I’m currently focusing on **Agentic AI, Backend Development (Flask), MLOps, and DSA**   
+- 💡 Passionate about solving problems using **AI + scalable tech systems**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <!-- Add your LinkedIn/GitHub links -->
+  <a href="https://www.linkedin.com/in/avinash-sharma238" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/avinash238" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/> 
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+  </a>
+</p>
 
 [![An image of @avinash238's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/avinash238)](https://holopin.io/@avinash238)
