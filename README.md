@@ -4,6 +4,8 @@
 
 <a align="center">
 - 🚀 I’m currently focusing on **Agentic AI, Backend Development (Flask), MLOps, and DSA**   
+</a>
+<a align="center">
 - 💡 Passionate about solving problems using **AI + scalable tech systems**  
 </a>
 
