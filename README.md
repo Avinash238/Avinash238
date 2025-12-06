@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avinash Sharma</h1>
-<h3 align="center">Associate Engineer at Nagarro | IIT (BHU) Varanasi Graduate</h3>
+<h3 align="center">Associate Data Scientist at Nagarro | IIT (BHU) Varanasi Graduate</h3>
 <h4 align="center">AI & Data Science Enthusiast | Exploring Backend Development, MLOps, and DSA</h4>
 
 <p align="center">
@@ -44,7 +44,6 @@
 |--------|-------------|------|
 | 🔆 **SolarPulse – Solar Power Forecasting + AI Advisory System** | AI agent that analyzes forecasted solar power data and generates optimization recommendations | Python, Azure AI, LLM APIs |
 | 🍽️ **JustEat – Food Ordering Platform** | Full-stack food delivery app with role-based access for customers & restaurant owners | Flask, MySQL, HTML/CSS |
-| 🧠 **LLM Reasoning Evaluation – Outlier.ai** | Designed adversarial mathematical prompts to detect reasoning failures and hallucinations in LLMs | Prompt Engineering, Evaluation Pipelines |
 | 💬 **Financial News Sentiment Analyzer** | Classifies sentiment from financial news for decision intelligence | NLP, Transformers |
 | 🚦 **Traffic Time-Series Forecasting** | Forecasts traffic volume using Prophet | Time Series, Python |
 | 🩺 **Insurance Cost Prediction** | Predicts medical insurance charges with ML models | Regression, Random Forest |
