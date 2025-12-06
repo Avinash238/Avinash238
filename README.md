@@ -3,7 +3,7 @@
 <h4 align="center">AI & Data Science Enthusiast | Exploring Backend Development, MLOps, and DSA</h4>
 
 <p align="center">
-🚀 Currently focusing on Agentic AI, Backend Development (Flask), MLOps, and DSA — passionate about building scalable and intelligent systems using AI + software engineering.
+ Currently focusing on Agentic AI, Backend Development (Flask), MLOps, and DSA — passionate about building scalable and intelligent systems using AI + software engineering.
 </p>
 
 ---
@@ -38,19 +38,19 @@
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🔆 **SolarPulse – Solar Power Forecasting + AI Advisory System** | AI agent that analyzes forecasted solar power data and generates optimization recommendations | Python, Azure AI, LLM APIs |
-| 🍽️ **JustEat – Food Ordering Platform** | Full-stack food delivery app with role-based access for customers & restaurant owners | Flask, MySQL, HTML/CSS |
-| 💬 **Financial News Sentiment Analyzer** | Classifies sentiment from financial news for decision intelligence | NLP, Transformers |
-| 🚦 **Traffic Time-Series Forecasting** | Forecasts traffic volume using Prophet | Time Series, Python |
-| 🩺 **Insurance Cost Prediction** | Predicts medical insurance charges with ML models | Regression, Random Forest |
+|  **SolarPulse – Solar Power Forecasting + AI Advisory System** | AI agent that analyzes forecasted solar power data and generates optimization recommendations | Python, Azure AI, LLM APIs |
+|  **JustEat – Food Ordering Platform** | Full-stack food delivery app with role-based access for customers & restaurant owners | Flask, MySQL, HTML/CSS |
+|  **Financial News Sentiment Analyzer** | Classifies sentiment from financial news for decision intelligence | NLP, Transformers |
+|  **Traffic Time-Series Forecasting** | Forecasts traffic volume using Prophet | Time Series, Python |
+|  **Insurance Cost Prediction** | Predicts medical insurance charges with ML models | Regression, Random Forest |
 
 ---
 
-### 📌 Current Focus
+###  Current Focus
 LLM post-training & evaluation • RAG & Agentic Workflows • Backend Systems • MLOps • DSA
 
 ---
